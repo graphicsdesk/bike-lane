@@ -7,12 +7,104 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "New York City has seen the most dangerous first seven months of the year for cyclists on record. Last year, the city implemented a plan to create hundreds of miles of protected bike lanes to make streets safer for cyclists and pedestrians."
+          },
+          {
+            "type": "text",
+            "value": "West Harlem hasn’t seen any yet."
+          },
+          {
+            "type": "text",
+            "value": "The plan, launched in December 2021 by the city’s  Department of Transportation, required New York City to install at least 30 miles of protected bike lanes in 2022 and 250 total miles from 2022 to 2026 in an effort to increase alternative transportation infrastructure throughout the city. While the DOT has completed 10 of the required 50 miles of bike lane this year, no projects were constructed or announced in West Harlem or the area for the second year in a row."
+          },
+          {
+            "type": "text",
+            "value": "The city’s protected bike lane designs have been shown to reduce deaths and serious injuries among road users by 18.1 percent and for pedestrians by 29.2 percent, according to the DOT."
+          },
+          {
+            "type": "text",
+            "value": "West Harlem has the fewest number of bike lanes in the borough. Spectator analysis of DOT data found that Community Board 9 has no protected path bike lanes."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "bike_lane.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "“We’re stacked with traffic and the same thing is true, and especially plaguing Black and brown communities in New York, in Manhattan, and especially places like West Harlem, where we’re seeing inaction and we’re getting the same results,” Jackson Chabot, director of advocacy and organizing at Open Plans, an alternative transportation advocacy organization, said."
+          },
+          {
+            "type": "text",
+            "value": "Chabot said that although issues with transportation inaccessibility exist citywide, they are especially prevalent in West Harlem."
+          },
+          {
+            "type": "text",
+            "value": "Support for additional protected bike lanes has come from the very top of the city’s government: During his 2021 mayoral campaign, Eric Adams promised an additional 50 miles by the end of his first term. But some advocates doubt whether Adams and the DOT can keep up with the city mandate and campaign promises."
+          },
+          {
+            "type": "text",
+            "value": "“Right now we need to see construction start, we need to see the DOT committing itself to implementing these projects and not letting politics get in the way,” Jacob DeCastro, communications manager at the green transportation advocacy group Transportation Alternatives, said."
+          },
+          {
+            "type": "text",
+            "value": "Last year, the DOT constructed 20 miles of protected bike lanes throughout the city, just two-thirds of the required 30 miles under the Streets Plan."
+          },
+          {
+            "type": "text",
+            "value": "“You have a lot of people that want to have access to those streets and the question becomes, who gets paid attention to and who doesn’t get paid attention to?” Elliott Sclar, professor emeritus of urban planning at the Graduate School of Architecture, Planning, and Preservation and the Earth Institute, said."
+          },
+          {
+            "type": "text",
+            "value": "“We’re seeing all these things time and time again,” Chabot said. “City council members aren’t acting with urgency, and I think urgency is also a really large aspect of this.”"
+          },
+          {
+            "type": "text",
+            "value": "Chabot said there are also health-related issues at stake for the neighborhood, which has the sixth-highest rate of adult asthma in Manhattan."
+          },
+          {
+            "type": "text",
+            "value": "“People and especially politicians are willing to talk broadly about climate change, and about a just transition and a green economy, and yet they are unwilling, categorically, to support projects in their neighborhoods, in their communities, and in their districts that they represent,” Chabot said."
+          },
+          {
+            "type": "text",
+            "value": "The Streets Plan is a legal mandate, meaning the city is legally required to build the outlined number of bike lanes each year."
+          },
+          {
+            "type": "text",
+            "value": "With 40 miles of additional protected bike lanes announced this year, Chabot said he remains hopeful that the DOT will be able to fulfill the annual requirement."
+          },
+          {
+            "type": "text",
+            "value": "“It’s inevitable for the future of the city, the notion of encouraging bike lanes,” Sclar said. “We’ve got to get away from internal combustion engines, period. And in a place like New York, which has the ability to have good mass transit and bike transit, these are the first tentative steps in that direction.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>City News Deputy Editor Uriel Lopez can be contacted at </i><a href=\"mailto:uriel.lopez@columbiaspectator.com\"><i>uriel.lopez@columbiaspectator.com</i></a><i>. F</i><i>ollow them on Twitter </i><a href=\"https://twitter.com/uuuriiielll\"><i>@uuuriiielll</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Editor Adina Cazacu-De Luca can be contacted at </i><a href=\"mailto:adina.cazacu.de.luca@columbiaspectator.com\"><i>adina.cazacu.de.luca@columbiaspectator.com</i></a><i>. Follow them on Twitter </i><a href=\"https://twitter.com/adidanic\"><i>@adidanic</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "One year after Streets Plan launch, West Harlem has yet to see promised bike lanes",
+        "date": "September 14, 2023",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Uriel-Lopez/\">Uriel Lopez</a>. Graphics by <a href=\"https://www.columbiaspectator.com/contributors/Adina-Cazacu/\">Adina Cazacu-De Luca</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/FPOG3H2B4JCLVK5PX45YTGEM7A.jpg",
+        "cover_caption": "Judy Goldstein / Photo Editor",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1lo_27599PXIdamPiVptdjE8xZEcHr1TGVxfnIju6-vg/edit"
       }
     }
   }
